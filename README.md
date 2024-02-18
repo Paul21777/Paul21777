@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/)
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 </p>
-<p align="center">I'm currently a student in Machine learning and Deep learning in a work/study training program 🧑‍🎓🧑‍🏭 in France 🇫🇷 . </br></br> I'm passionate about solving real life problems using Machine Learning techniques. ⚙️💡 You can also find me interested in self-hosting 🏡, cybersecurity 🛡️, blockchain 🔗, IoT 🌎 and 3D printing 🛠️.
+<p align="center">I'm currently a student in Machine learning and Deep learning in a work/study training program 🧑‍🎓🧑‍🏭 in France 🇫🇷 . </br></br> I'm passionate about solving real life problems using Machine Learning techniques. ⚙️💡 I'm also interested in self-hosting 🏡, cybersecurity 🛡️, blockchain 🔗, IoT 🌎 and 3D printing 🛠️.
 </p>
 
 <p align="center">When I'm not developing and coding, you can find me playing guitar and video games, reading AI related articles or listening to music. </p>
