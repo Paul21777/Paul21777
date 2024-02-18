@@ -1,5 +1,5 @@
 <p align="center">
- <img  width="800" height="400" src="https://github.com/Paul21777/Paul21777/blob/master/social/yashs.gif">
+ <img width="100%" alt="Frame 1" src="https://github.com/Paul21777/Paul21777/assets/80341131/96196a1c-e411-4998-9a65-28cc58020b32">
 </p>
 <h2 align="center">Hello ! My name is Paul 😁</h2>
 
@@ -40,4 +40,4 @@
 
 
 <h2 align="center">Contacts</h2>
-<p align="center">Email : <a href="paul.theureau@protonmail.com">paul.theureau@protonmail.com </a></p>
+<p align="center">Email : <a href="mailto:paul.theureau@protonmail.com">paul.theureau@protonmail.com </a></p>
