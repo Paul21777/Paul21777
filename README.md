@@ -1,6 +1,3 @@
-<p align="center">
- <img width="100%" alt="Frame 1" src="https://github.com/Paul21777/Paul21777/assets/80341131/96196a1c-e411-4998-9a65-28cc58020b32">
-</p>
 <h2 align="center">Hello ! My name is Paul 😁</h2>
 
 <p align="center">
